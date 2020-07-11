@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "Starting a blog"
+date:   2017-01-01 20:21:15 +1100
+categories: blog
+---
+New Years' is always a time for reflection on the year that has passed, and the year to come. 
+
+While I'm not one for resolutions - ene thing I'd like to do this year is to write more, because I think the act of putting pen to paper (as it were) forces you to think through ideas and beliefs that might otherwise be ill-considered. 
+
+The easiest and cheapest way to get a blog up and running seems to be GitHub pages, so that's what I've just set up.
+
+Okay, enough talk, here's some amazing code (to test markup):
+
+{% highlight cpp %}
+#include <iostream>
+
+int main()
+{
+  std::cout << "Hello World!";
+}
+
+#=> prints 'Hello World!' to STDOUT.
+{% endhighlight %}
+
+
