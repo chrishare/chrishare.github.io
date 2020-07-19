@@ -5,7 +5,7 @@ date:   2020-07-06 10:21:15 +1100
 categories: blog
 ---
 
-## OpenAPI's API Business
+## OpenAI's API Business
 
 Recently, OpenAI unveiled a new API that serves AI models developed by the company. They have a blog post [here](https://openai.com/blog/openai-api/) if you are unfamiliar with that work.
 
