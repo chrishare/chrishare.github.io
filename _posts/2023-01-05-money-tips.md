@@ -1,5 +1,5 @@
 ---
-title: "Money Basics for People With Not Much
+title: "Money Basics for People With Not Much"
 excerpt_separator: "<!--more-->"
 categories:
   - Money
