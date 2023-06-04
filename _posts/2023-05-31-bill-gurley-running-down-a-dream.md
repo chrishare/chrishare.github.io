@@ -1,5 +1,5 @@
 ---
-title: "Bill Burley - Running Down a Dream"
+title: "Bill Burley - Runnin Down a Dream"
 excerpt_separator: "<!--more-->"
 categories:
   - Life Advice
